@@ -1,2 +1,6 @@
-.lsp/
 .cpcache/
+.lsp/
+.shadow-cljs/
+
+dist/
+node_modules/

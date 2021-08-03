@@ -9,7 +9,7 @@
   {:mvn/version "1.6.3"}}
 
  :paths
- ["src"]
+ ["src/clj"]
 
  :aliases
  {:dev
